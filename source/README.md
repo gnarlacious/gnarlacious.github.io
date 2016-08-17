@@ -1,3 +1,0 @@
-Gnarlacious
-
-Here lies the website contents of http://gnarlacious.com. Built using https://middlemanapp.com.
